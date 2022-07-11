@@ -6,7 +6,7 @@
 ---
 
 ###### home – DSMeta
-![home_page]()
+![home_page](https://github.com/tiagodalmeida87/dsmeta/blob/main/frontend/src/assets/img/dsmeta_static_front.jpg)
 
 ---
 
@@ -24,6 +24,6 @@
 
 ---
 ### AGRADECIMENTOS
-**DSMeta** é um projeto desenvolvido na Semana Spring React oferecida pela [DEVSUPERIOR](https://devsuperior.com.br/), através do instrutor [Nelio Alves](https://www.instagram.com/devsuperior.ig/).
+**DSMeta** é um projeto desenvolvido na Semana Spring React oferecida pela [DEVSUPERIOR](https://devsuperior.com.br/) - Escola de Programação, através do instrutor [Nelio Alves](https://www.instagram.com/devsuperior.ig/).
 
-Feito por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑‍💻
+Feito com ❤️ por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑‍💻
