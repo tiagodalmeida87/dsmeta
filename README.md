@@ -14,11 +14,11 @@ Acesso ao ⏩ [DSMeta](https://dsmeta-tiagoalmeida.netlify.app/)
 
 ---
 ###### deploys_GitHub – dsmeta-tiagoalmeida
-![deploys]()
+![deploys](https://github.com/tiagodalmeida87/dsmeta/blob/main/frontend/src/assets/img/dsmeta_netlify.jpg)
 
 ---
 ###### consulta_BD_Heroku_via_Postman – dsmeta-tiagoalmeida
-![Consulta a BD Heroku]()
+![Consulta a BD Heroku](https://github.com/tiagodalmeida87/dsmeta/blob/main/frontend/src/assets/img/dsmeta_postman_Heroku.jpg)
 
 ---
 
