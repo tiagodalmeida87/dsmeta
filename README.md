@@ -2,7 +2,7 @@
 
 ### O projeto
 
-**O DSMeta** -  um dashboard que apresenta relatório de vendedores e suas respectivas vendas. Nesse projeto utilizamos o Spring no back end e React no front end, seguindo as orientações que se iniciaram desde a instalação de ferramentas, a criação dos projetos até a implantação na nuvem.
+**O DSMeta** -  um dashboard que apresenta relatório de vendedores e suas respectivas vendas. Nesse projeto utilizamos o Spring no back end, React no front end e envio de notificações via SMS, seguindo as orientações que se iniciaram desde a instalação de ferramentas, a criação dos projetos até a implantação na nuvem.
 
 Acesso ao ⏩ [DSMeta](https://dsmeta-tiagoalmeida.netlify.app/) 
 
